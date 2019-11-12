@@ -1,0 +1,8 @@
+export POSTGRESQL_ADDON_URI=postgresql://uny8dubuyhngdavciquq:A7ksKg9IxeMEtkA2ccJL@bitstntontqnxw2hpy38-postgresql.services.clever-cloud.com:5432/bitstntontqnxw2hpy38
+export POSTGRESQL_ADDON_PORT=5432
+export POSTGRESQL_ADDON_HOST=bitstntontqnxw2hpy38-postgresql.services.clever-cloud.com
+export POSTGRESQL_ADDON_DB=bitstntontqnxw2hpy38
+export POSTGRESQL_ADDON_PASSWORD=A7ksKg9IxeMEtkA2ccJL
+export APP_HOME=/home/karani/Documents/I-develop/ionic/bikerent/backend/bikebackend/bikebackend/
+export STATIC_URL_PREFIX=/static
+export POSTGRESQL_ADDON_USER=uny8dubuyhngdavciquq

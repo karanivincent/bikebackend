@@ -1,0 +1,6 @@
+{ "deploy": {
+    "module": "bikebackend_wsgi",
+     "static": "/static/"
+   }
+ } 
+ 
